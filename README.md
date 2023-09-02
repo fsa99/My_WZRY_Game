@@ -1,5 +1,5 @@
 ![image](https://github.com/fsa99/My_WZRY_Game/assets/96764100/c1effc20-3323-4bb8-bd30-4e138864bde1)![image](https://github.com/fsa99/My_WZRY_Game/assets/96764100/443e4807-baa9-4024-bc8d-030641fcb6f8)![image](https://github.com/fsa99/My_WZRY_Game/assets/96764100/1fb0c755-2c15-4d36-ba36-cdc0121eddb5)![image](https://github.com/fsa99/My_WZRY_Game/assets/96764100/fc8d9306-854a-4ac0-ab98-d2ffb883e1c9)![image](https://github.com/fsa99/My_WZRY_Game/assets/96764100/f2e58411-c23e-455f-8e24-97f72c939667)# My_WZRY_Game
-刚工作的时候，每天上班就是完成一些简单的DEMO制作，那时候设计模式没看过，面向对象没能真正理解，按照要求瞎写的一个小游戏
+刚工作的时候，每天上班就是完成一些简单的DEMO制作，那时候设计模式没看过，面向对象没能真正理解，按照要求瞎写的一个小游戏  完全没有设计可言，无面向对象，无兼容性，无扩展性，上传只是为了纪念这段代码。。
 九.实战演练-游戏(1)
 基础功能
 显示人物信息，对战采用回合制(A->B, B->A 循环)
